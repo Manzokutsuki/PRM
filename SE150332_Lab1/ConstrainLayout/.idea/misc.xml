@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/drawable/border_layout.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/drawable/ic_launcher_background.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/drawable/instagram_background.xml" value="0.24166666666666667" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/drawable/my_button_bg.xml" value="0.26614583333333336" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/facebook_layout.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/first_linear_layout.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/instagram.xml" value="0.264" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/instagram_layout.xml" value="0.264" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/normal_layout.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/second_layout.xml" value="0.264" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/second_linear_layout.xml" value="0.11170212765957446" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/ConstrainLayout/app/src/main/res/layout/third_layout.xml" value="0.2210144927536232" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Asm1/ConstrainLayout/app/src/main/res/layout/facebook_layout.xml" value="0.16979166666666667" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Asm1/ConstrainLayout/app/src/main/res/layout/first_linear_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Asm1/ConstrainLayout/app/src/main/res/layout/instagram_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Asm1/ConstrainLayout/app/src/main/res/layout/normal_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Asm1/ConstrainLayout/app/src/main/res/layout/second_linear_layout.xml" value="0.24635416666666668" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Lab1/ConstrainLayout/app/src/main/res/layout/facebook_layout.xml" value="0.2" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Lab1/ConstrainLayout/app/src/main/res/layout/first_linear_layout.xml" value="0.264" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Lab1/ConstrainLayout/app/src/main/res/layout/instagram_layout.xml" value="0.22327898550724637" />
+        <entry key="..\:/Users/pphuh/AndroidStudioProjects/SE150332_Lab1/ConstrainLayout/app/src/main/res/layout/normal_layout.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.264" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
